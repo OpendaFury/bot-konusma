@@ -1,2 +1,1 @@
-# bot-konusma
-discord bot konuşturma
+# discord-bot-konu-turma
