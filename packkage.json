@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmirhanSarac/discord-sesli-mesaj-bot"
+    "url": "git+https://github.com/OpendaFury/bot-konusma/"
   },
-  "author": "emirhan",
+  "author": "Openda",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2",
